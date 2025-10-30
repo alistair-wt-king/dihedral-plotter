@@ -3,7 +3,7 @@ A set of python scripts to create Ramachandran plots from CREST-xTB '-entropy- s
 
 The initial dihedral extraction is based on 'https://github.com/dsvatunek/dihedral'
 
-In total the scripts require 'python3, 'glob', 'numpy', 'pandas', 'matplotlib' & 'adjustText'.
+In total the scripts require 'python3, 'glob', 'numpy', 'pandas', 'matplotlib', 'openpyxl' & 'adjustText'.
 
 
 **Usage**:
