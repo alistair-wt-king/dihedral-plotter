@@ -3,7 +3,7 @@ A set of python scripts to create Ramachandran plots from CREST-xTB '-entropy- s
 
 The initial dihedral extraction is based on 'https://github.com/dsvatunek/dihedral'
 
-In total the scripts require 'python3, 'glob', 'numpy', 'pandas', 'matplotlib', 'openpyxl' & 'adjustText'.
+In total the scripts require 'python3, 'numpy', 'pandas', 'matplotlib', 'openpyxl' & 'adjustText'.
 
 
 **Usage**:
@@ -12,7 +12,7 @@ In total the scripts require 'python3, 'glob', 'numpy', 'pandas', 'matplotlib', 
 
 
 The saccharide torsion angles are defined as ϕ = C1-C2-C3-C4, and ψ= C2-C3-C4-C5
-for .xyz files
+for .xyz files. For examples:
 ϕ (phi)
 12,7,9,16 (Avogadro)
 ψ (psi)
