@@ -1,3 +1,6 @@
+#python3 script for plotting the ensemble on a scatter plot
+# one arguement is require: the number of conformers to be plotted - check the spreadsheet first to see how many are in the ensemble
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import sys
