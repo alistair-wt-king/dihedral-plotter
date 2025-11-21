@@ -1,4 +1,5 @@
-# use python3 - combining text & csv columns
+#python3 script for combining csv dihedral text into one excel spreadsheet
+
 import pandas as pd
 
 # Load the space-separated text file and set the first column as index
