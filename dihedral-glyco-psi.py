@@ -1,4 +1,6 @@
+#python3 script for extraction of the psi dihedrals from the crest ensemble
 # select atoms based on numbers starting with 1! https://github.com/dsvatunek/dihedral/blob/master/dihedral.py
+
 selected = [7,9,16,17]
 
 selected = [int(x)-1 for x in selected]
