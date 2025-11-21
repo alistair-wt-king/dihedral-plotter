@@ -1,4 +1,6 @@
+#python3 script for extraction of the phi dihedrals from the crest ensemble
 # select atoms based on numbers starting with 1! Based on https://github.com/dsvatunek/dihedral/blob/master/dihedral.py
+
 selected = [12,7,9,16]
 
 selected = [int(x)-1 for x in selected]
