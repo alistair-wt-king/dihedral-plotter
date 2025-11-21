@@ -1,3 +1,6 @@
+#python3 script for plotting the ensemble on a scatter plot
+# two arguements are require: 1) the number of conformers to be plotted, & 2) the number of conformers to be labelled, starting with the lowest energy
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
