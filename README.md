@@ -22,7 +22,7 @@ for .xyz files. For examples:
 **Step 2** - Copy the crest outputs 'crest.energies' and 'crest_conformers.xyz' into your working directory
 
 **Step 3** - execute 'python3 dihedral-glyco-phi.py'
-**Step 4** - execute 'python3 dihedral-glyco-phi.py'
+**Step 4** - execute 'python3 dihedral-glyco-psi.py'
 
 **Step 5** - execute 'python3 dihedral-data-combine.py'
 
